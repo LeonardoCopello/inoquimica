@@ -130,12 +130,7 @@
       font-size: 12px;
     }
     .rodape {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-around;
-      align-items: center;
       color:var(--white);
-      padding: 10px 0 0 0;
     }
     .telefones h1 {
       font-size: 30px;
@@ -147,12 +142,6 @@
     .telefones span {
       font-size: 22px;
       padding-left: 10px;
-    }
-    .contMidias {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      align-content: center;
     }
     .contMidias h1 {
       font-size: 15px;
